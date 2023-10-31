@@ -1,4 +1,8 @@
 h1{Livros de psicologia
     color:rgb(15, 40, 63);
-    font-size: medium;
+    font-size:larger; 
 }
+p{
+    color:black;
+    font-size: medium;
+} 
